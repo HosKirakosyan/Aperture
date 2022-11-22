@@ -1,5 +1,6 @@
 
 
+
 /* Обнуление */
 *,
 *::before,
@@ -278,7 +279,7 @@ body {
   }
 
   .product_title{
-    font-size: 14px;
+    font-size: 16px;
     color: #ffffff;
     padding: 0 0 20px 0;
   }
@@ -537,7 +538,8 @@ body {
   margin-right:87px ;
  }
  .star_title{
-  font-size: 14px;
+  font-size: 16px;
+  padding-bottom:5px ;
  }
  .nulla_text{
   font-size: 14px;
@@ -928,7 +930,7 @@ body {
   .page5_page1_right{
     display: grid;
     grid-template-columns: 1fr 1fr;
-    margin: 0 0 0 40px;
+    margin: 0 0 20px 40px;
 
   }
   .page5_right_img{
@@ -1017,8 +1019,6 @@ body {
     }
 
   }
-
-
 
 
 
