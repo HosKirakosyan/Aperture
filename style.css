@@ -648,6 +648,7 @@ body {
 }
 .footer_page2_right{
   display: flex;
+  padding-bottom: 30px;
 }
 .facebook_icon{
   padding: 0 6px 0 26px;
