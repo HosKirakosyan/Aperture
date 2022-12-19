@@ -1,3 +1,8 @@
+let userName = prompt("What is your name?")
+
+alert("Welcom to my site " + userName + " :)");
+
+
 window.onload = function () {
 
     const menu_btn = document.querySelector('.header_burger')
