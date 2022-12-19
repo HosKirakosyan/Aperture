@@ -1,6 +1,6 @@
 let userName = prompt("What is your name?")
 
-alert("Welcom to my site " + userName + " :)");
+alert("Welcome to my site " + userName + " :)");
 
 
 window.onload = function () {
